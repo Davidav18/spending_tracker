@@ -1,0 +1,1 @@
+<p>Hola <?php echo $_SESSION['user'];?>, ¿Deseas Cerrar Sesión? <a href="logout.php">Pulsa aquí</a></p>
